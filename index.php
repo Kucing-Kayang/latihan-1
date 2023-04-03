@@ -3,7 +3,7 @@
 <title> Latihan 1 </title>
 </head>
 <body>
-  <?= Hello World ?>
+  <?= Hello Something?>
   </body>
   </html>
  
